@@ -1,6 +1,5 @@
-pickle
-numpy
 streamlit
 pandas
-xgboost
+numpy
 scikit-learn
+xgboost==1.7.6
