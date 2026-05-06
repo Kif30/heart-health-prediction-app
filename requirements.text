@@ -2,3 +2,4 @@ pickle
 streamlit
 numpy
 pandas
+xgboost
